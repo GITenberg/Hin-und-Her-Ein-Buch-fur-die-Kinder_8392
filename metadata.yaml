@@ -1,0 +1,25 @@
+_repo: Hin-und-Her-Ein-Buch-fur-die-Kinder_8392
+creator:
+  author:
+    agent_name: Fick, H. H. (Henry H.)
+    alias: Fick, Henry H.
+    birthdate: 1849
+    gutenberg_agent_id: '2720'
+    url: http://www.gutenberg.org/2009/agents/2720
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8392'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PF'
+- !lcsh 'German language -- Readers'
+- !lcsh 'Children''s literature'
+- !lcc 'PZ'
+title: 'Hin und Her: Ein Buch für die Kinder'
+url: http://www.gutenberg.org/ebooks/8392
