@@ -1,4 +1,8 @@
 _repo: Hin-und-Her-Ein-Buch-fur-die-Kinder_8392
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fick, H. H. (Henry H.)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2720'
     url: http://www.gutenberg.org/2009/agents/2720
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8392#Hin-und-Her-Ein-Buch-fur-die-Kinder
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
